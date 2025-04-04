@@ -1,2 +1,1 @@
-# hello_world
-to practice git_hub flow.
+I am learning to code on the github, Newbie.
